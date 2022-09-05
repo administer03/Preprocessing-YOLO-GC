@@ -1,0 +1,20 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+box(14180.812,2782.3144,100,100,0) # text={39.Stellar}
+box(10351.446,3004.9325,100,100,0) # text={57.Galaxy}
+box(16467.087,8108.0617,100,100,0) # text={31.Unknown}
+box(13972.544,9931.3977,100,100,0) # text={40.Cluster}
+box(12110.164,10544.885,100,100,0) # text={46.Cluster}
+box(11974.225,10505.511,100,100,0) # text={49.Cluster}
+box(4723.7498,8671.958,100,100,0) # text={136.Unknown}
+box(4440.4576,10088.686,100,100,0) # text={141.Unknown}
+box(3790.2594,14707.911,100,100,0) # text={152.Unknown}
+box(3291.923,12825.445,100,100,0) # text={159.Unknown}
+box(3179.8079,13583.684,100,100,0) # text={162.Unknown}
+box(3148.089,10210.909,100,100,0) # text={163.Unknown}
+box(2355.7681,13005.801,100,100,0) # text={174.Unknown}
+box(9649.6117,15732.263,100,100,0) # text={62.Stellar}
+box(9376.1173,13305.8,100,100,0) # text={69.Stellar}
+box(9155.9876,16522.313,100,100,0) # text={71.Unknown}
+box(7080.3269,13012.42,100,100,0) # text={98.Unknown}
+box(6037.1711,15593.266,100,100,0) # text={120.Cluster}
