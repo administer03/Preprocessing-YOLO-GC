@@ -111,7 +111,12 @@ env.bak/
 venv.bak/
 
 # Image Data
-data
+data/fits
+data/scaled_fits
+data/zip
+
+# Detection folder
+detection
 
 # Spyder project settings
 .spyderproject

@@ -1,0 +1,10 @@
+1 -> hst_14610_07_acs_wfc_f475w_jdb607_drc
+2 -> hst_14610_12_acs_wfc_f814w_jdb612_drc
+3 -> hst_14610_18_acs_wfc_f814w_jdb618_drc
+4 -> hst_14610_23_acs_wfc_f814w_jdb623_drc
+5 -> hst_14610_27_acs_wfc_f814w_jdb627_drc
+6 -> hst_14610_38_acs_wfc_total_jdb638_drc
+7 -> hst_15932_33_acs_wfc_f625w_je0x33_drc
+8 -> hst_16274_54_acs_wfc_f814w_je9t54_drc
+9 -> hst_skycell-p1935x08y14_acs_wfc_f775w_all_drc
+10 -> hst_skycell-p1935x09y13_acs_wfc_f814w_all_drc
