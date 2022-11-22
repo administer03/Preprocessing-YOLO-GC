@@ -1,0 +1,12 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+box(2984.1311,1280.0615,100,100,0) # text={191.Cluster}
+box(2836.9031,1142.0614,100,100,0) # text={192.Cluster}
+box(2653.5243,1506.0657,100,100,0) # text={200.Unknown}
+box(2565.6845,1030.0693,100,100,0) # text={201.Cluster}
+box(2547.6279,1506.0703,100,100,0) # text={203.Unknown}
+box(2271.3073,1982.09,100,100,0) # text={207.Cluster}
+box(2268.6526,1188.0902,100,100,0) # text={208.Cluster}
+box(1690.1643,1732.167,100,100,0) # text={217.Cluster}
+box(1207.5897,3378.268,100,100,0) # text={231.Cluster}
+box(861.35442,2602.3607,100,100,0) # text={241.Cluster}
