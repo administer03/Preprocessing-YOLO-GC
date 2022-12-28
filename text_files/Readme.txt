@@ -60,3 +60,6 @@ https://arxiv.org/pdf/0704.1576.pdf มาใช้แทน
 2. นำเฉลยที่ได้มาไปแปลงให้เป็น yolo format ด้วยการใช้ไฟล์ position_to_YOLO_format.ipynb
 3. Done! (นำไป Run Model ต่อได้)
 --------------------------------------------------------------------------------
+
+
+*** สามารถดูรูปย่อยที่ถูก detect ได้จาก post process ที่ไฟล์ post_process.ipynb
