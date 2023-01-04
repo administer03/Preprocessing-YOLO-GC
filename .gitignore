@@ -115,7 +115,6 @@ data/fits
 data/scaled_fits
 data/zip
 data/zip_F814W
-
 # Detection folder
 detection
 
