@@ -111,10 +111,12 @@ env.bak/
 venv.bak/
 
 # Image Data
-data/fits
-data/scaled_fits
-data/zip
-data/zip_F814W
+data
+# data/fits
+# data/scaled_fits
+# data/zip
+# data/zip_F814W
+# data/data_augmentation
 # Detection folder
 detection
 
