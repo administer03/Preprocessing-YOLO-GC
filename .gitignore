@@ -112,8 +112,6 @@ venv.bak/
 
 # Image Data
 data
-# data/data_augmentation
-# data/jpg
 # data/fits
 # data/scaled_fits
 # data/zip
