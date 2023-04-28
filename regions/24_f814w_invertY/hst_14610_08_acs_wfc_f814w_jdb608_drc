@@ -1,0 +1,25 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+box(5189.1348,3709.2653,100,100,0) # text={182.Cluster}
+box(4581.0143,3541.0968,100,100,0) # text={187.Cluster}
+box(4398.1712,2939.0566,100,100,0) # text={190.Cluster}
+box(3692.0021,3012.9467,100,100,0) # text={205.Unknown}
+box(3545.0115,4090.9329,100,100,0) # text={210.Cluster}
+box(3423.8701,4564.9239,100,100,0) # text={211.Unknown}
+box(3282.1669,4318.9159,100,100,0) # text={214.Cluster}
+box(3014.1848,4762.909,100,100,0) # text={218.Cluster}
+box(3009.0551,856.90866,100,100,0) # text={219.Cluster}
+box(2898.2306,3848.9091,100,100,0) # text={222.Cluster}
+box(2854.3799,1158.9095,100,100,0) # text={224.Unknown}
+box(2632.6887,1324.9167,100,100,0) # text={229.Cluster}
+box(2447.4074,5624.9286,100,100,0) # text={233.Cluster}
+box(2403.4762,3958.9317,100,100,0) # text={235.Cluster}
+box(2210.3465,5186.9504,100,100,0) # text={242.Cluster}
+box(2168.6635,1192.9547,100,100,0) # text={245.Cluster}
+box(2022.208,4742.9734,100,100,0) # text={249.Cluster}
+box(1795.4171,4423.0081,100,100,0) # text={253.Cluster}
+box(1779.7604,3279.0106,100,100,0) # text={254.Cluster}
+box(1741.1352,3453.0174,100,100,0) # text={256.Cluster}
+box(1390.4776,2665.0883,100,100,0) # text={266.Cluster}
+box(936.73742,2225.2064,100,100,0) # text={280.Unknown}
+box(846.63761,2593.2335,100,100,0) # text={286.Unknown}
