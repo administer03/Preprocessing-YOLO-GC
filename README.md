@@ -1,20 +1,41 @@
-# Data pre-processing
-This repository was created for working in the topic Object Detection Using Machine Learning
+# Object Detection Using Machine Learning: Project Setup Guide
 
-## Installation For using GPU
-1. conda create -n ENV_NAME python=3.7
-2. conda activate ENV_NAME
-3. conda install tensorflow-gpu=2.1
-4. pip install tensorflow-gpu==2.3.1
+## Overview
+This repository provides resources and setup instructions for preprocessing globular cluster detection using YOLO-GC.
 
-## Active python kernel
-1. pip install --user ipykernel
-2. python -m ipykernel install --user --name=ENV_NAME
+## Prerequisites
+- Anaconda or Miniconda installed
+- NVIDIA GPU with compatible drivers
 
-## Command for Check if GPU is available
-1. nvidia-smi
-2. import tensorflow as tf;tf.config.list_physical_devices("GPU")
+## Installation and Environment Setup
 
+### 1. Create Conda Environment
+```bash
+# Create a new conda environment with Python 3.7
+conda create -n pre_yologc python=3.7
 
+# Activate the environment
+conda activate pre_yologc
+```
 
+### 2. Install TensorFlow GPU
+```bash
+# Install TensorFlow GPU (compatible versions)
+conda install tensorflow-gpu=2.1
+pip install tensorflow-gpu==2.3.1
+```
 
+### 3. Set Up Python Kernel
+```bash
+# Install ipykernel for Jupyter Notebook support
+pip install --user ipykernel
+
+# Register the kernel with Jupyter
+python -m ipykernel install --user --name=object_detection
+```
+
+## Recommended Additional Packages
+```bash
+# Install common ML and CV libraries
+pip install numpy pandas matplotlib scikit-learn opencv-python
+```
