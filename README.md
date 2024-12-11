@@ -39,3 +39,6 @@ python -m ipykernel install --user --name=object_detection
 # Install common ML and CV libraries
 pip install numpy pandas matplotlib scikit-learn opencv-python
 ```
+## Getting Started
+The main file for processing is [fits_to_npy.ipynb](./python_files/npy_extraction/fits_to_npy.ipynb). Open this file to begin preprocessing your data.
+
